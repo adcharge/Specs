@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.swift_version = '3.3'
 
 
-  s.source_files = 'AdCharge/Classes/**/*'
+  # s.source_files = 'AdCharge/Classes/**/*'
 
   s.dependency 'Alamofire', '~> 4.7.3'
   s.dependency 'AlamofireImage', '~> 3.3'
