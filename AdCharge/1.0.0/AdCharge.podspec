@@ -26,6 +26,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'AdCharge/Classes/**/*'
 
-  s.dependency 'Alamofire', '~> 4.7.0'
+  s.dependency 'Alamofire', '~> 4.7.3'
   s.dependency 'AlamofireImage', '~> 3.3'
 end
