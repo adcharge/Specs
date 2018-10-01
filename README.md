@@ -4,7 +4,7 @@ Cocoa Pod SDK allowing to communicate to AdCharge API
 
 ## Prerequisites
 
-Project has to support CocoaPods dependancy injection.
+Project has to support CocoaPods dependency injection.
 
 Setting up CocoaPods
 ```
